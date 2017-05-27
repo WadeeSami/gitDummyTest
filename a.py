@@ -1,5 +1,5 @@
 def masterFunction():
-<<<<<<< HEAD
+
     # print "This is the master function"
     print "This is in feature 1"
     print "modify this file in the master branch while someone else is working on feature 1"
