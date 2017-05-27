@@ -12,6 +12,7 @@ def main():
     print "This main function is modified in feature 1"
     print "This is the second change"
     print "This is a remote change to the master branch"
+    print "This is the second remote change"
 
 main()
 
